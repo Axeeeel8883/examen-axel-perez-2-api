@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="pe.upeu.agrosierra.AgroApiTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-27T19:36:36" hostname="FIA-LSOFA3" time="2.347">
+  <properties />
+  <testcase name="semillas y paginacion()" classname="pe.upeu.agrosierra.AgroApiTest" time="1.154" />
+  <testcase name="RN04 dosis maxima con mensaje por campo()" classname="pe.upeu.agrosierra.AgroApiTest" time="0.167" />
+  <testcase name="crear idempotente editar y eliminar 204()" classname="pe.upeu.agrosierra.AgroApiTest" time="0.284" />
+  <testcase name="credenciales incorrectas no autentican()" classname="pe.upeu.agrosierra.AgroApiTest" time="0.208" />
+  <testcase name="token ausente y alterado son 401()" classname="pe.upeu.agrosierra.AgroApiTest" time="0.01" />
+  <testcase name="RN01 campania cerrada()" classname="pe.upeu.agrosierra.AgroApiTest" time="0.091" />
+  <testcase name="RN02 tecnico no edita labor antigua()" classname="pe.upeu.agrosierra.AgroApiTest" time="0.12" />
+  <testcase name="RN03 sin cosecha no cierra()" classname="pe.upeu.agrosierra.AgroApiTest" time="0.11" />
+  <testcase name="administrador no registra y tecnico no elimina()" classname="pe.upeu.agrosierra.AgroApiTest" time="0.183" />
+  </testsuite>
