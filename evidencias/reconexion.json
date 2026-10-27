@@ -1,0 +1,15 @@
+{
+  "cantidadEnServidor": 1,
+  "labor": {
+    "id": 22,
+    "loteId": 1,
+    "tipo": "RIEGO",
+    "fecha": "2026-10-27",
+    "responsable": "tecnico1",
+    "usuarioId": 1,
+    "cantidad": 2.5,
+    "observacion": "Evidencia_offline_Axel",
+    "registradoEn": "2026-10-27T19:43:38.520860Z",
+    "claveCliente": "1:tecnico1-1793130206975--1"
+  }
+}
